@@ -6,6 +6,10 @@ public class Ogrenci {
 
         System.out.println("benim classım");
 
+        System.out.println("dünya boş");
+
+        System.out.println("zamansız commitler commit değildir");
+
 
 
     }
